@@ -19,9 +19,9 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" />
+  <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
