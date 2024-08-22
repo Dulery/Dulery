@@ -22,6 +22,11 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" />
+  <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br><br>
+  <h1>🖥️ Operating Systems 🖥️</h1>
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/fedora.png" alt="Fedora" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
 </div>
