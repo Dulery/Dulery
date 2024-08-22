@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Dulery
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <p>👋 Hi, I’m Lauric</p>
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" alt="Top Langs" />
+  </a>
 
-
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=default" alt="GitHub Streak" />
+  </a>
+</div>
