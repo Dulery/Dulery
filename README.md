@@ -42,7 +42,7 @@
   <a href="mailto:lauric.dulery@epitech.eu">
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/your-discord-id">
+  <a href="https://discord.com/users/lauric06">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" />
   </a>
 </div>
