@@ -31,5 +31,5 @@
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
   <br><br>
   <h1>⭐ Star History ⭐</h1>
-  <img src="https://api.lucabubi.me/chart?username=USERNAME&repository=REPOSITORY&color=COLOR" alt="Star History" />
+  <img src="https://api.lucabubi.me/chart?username=Dulery&repository=REPOSITORY&color=COLOR" alt="Star History" />
 </div>
