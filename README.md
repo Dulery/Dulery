@@ -30,10 +30,5 @@
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
   <br><br>
-  <h1>📞 Contacts 📞</h1>
-  <p>
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-linkedin-profile">your-linkedin-profile</a><br>
-    <strong>Discord:</strong> your-discord-id<br>
-    <strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a>
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
 </div>
