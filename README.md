@@ -16,12 +16,12 @@
   </a>
   <br><br>
   <h1>⌨️​ Programming languages ⌨️</h1>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" />
-  <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" style="margin: 0 10px;" />
 </div>
