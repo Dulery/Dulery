@@ -7,12 +7,12 @@
   <br>
   <br>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Dulery&theme=dark" alt="GitHub Streak" />
   </a>
   <br>
   <br>
   <a href="https://github.com/Dulery/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dulery&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
   </a>
   <br><br>
   <h1>🖥️ Operating Systems 🖥️</h1>
