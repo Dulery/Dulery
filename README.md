@@ -34,4 +34,15 @@
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true&title=Commits,Repositories,Stars,MultiLanguage,LongTimeUser,Followers,PullRequest,Experience" />
   </div>
+  <br><br>
+  <h1>📫 Contact Me 📫</h1>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/your-discord-id">
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" />
+  </a>
 </div>
