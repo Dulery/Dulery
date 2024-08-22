@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I’m Lauric 👋</h1>
-
+  <br>
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" alt="Top Langs" />
   </a>
@@ -31,12 +32,13 @@
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
   <br>
   <br>
+  <br>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true&title=Commits,Repositories,Stars,MultiLanguage,LongTimeUser,Followers,PullRequest,Experience" />
   </div>
   <br><br>
   <h1>📫 Contact Me 📫</h1>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://[www.linkedin.com](https://www.linkedin.com/in/lauric-dulery/)/in/your-linkedin-profile">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
