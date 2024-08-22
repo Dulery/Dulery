@@ -29,6 +29,5 @@
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
-  <br><br>
-  ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
 </div>
