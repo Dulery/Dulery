@@ -2,7 +2,7 @@
   <h1>👋 Hi, I’m Lauric 👋</h1>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulery&layout=donut&theme=dark" alt="Top Langs" />
   </a>
   <br>
   <br>
