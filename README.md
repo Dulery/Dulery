@@ -31,5 +31,5 @@
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
   <br>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?Dulery=madushadhanushka&theme=juicyfresh&no-bg=true&title=Commits,Repositories,Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true&title=Commits,Repositories,Stars" />
 </div>
