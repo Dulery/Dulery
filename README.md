@@ -1,5 +1,5 @@
 <div align="center">
-  <p>👋 Hi, I’m Lauric</p>
+  <h1>👋 Hi, I’m Lauric 👋</h1>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" alt="Top Langs" />
@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
   </a>
   <br><br>
-  <h2>Langages</h2>
+  <h1>⌨️​ Programming languages ⌨️</h1>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
