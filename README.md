@@ -30,5 +30,5 @@
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
   <br><br>
-  <img src="https://myreadme.vercel.app/api/embed/Dulery?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="reimaginedreadme" />
 </div>
