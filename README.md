@@ -32,6 +32,6 @@
   <br>
   <br>
   <div align="center">
-    <p>                                    <p><img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true&title=Commits,Repositories,Stars,MultiLanguage,LongTimeUser,Followers" />
+    <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true&title=Commits,Repositories,Stars,MultiLanguage,LongTimeUser,Followers,PullRequest" />
   </div>
 </div>
