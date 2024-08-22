@@ -15,6 +15,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
   </a>
   <br><br>
+  <h1>🖥️ Operating Systems 🖥️</h1>
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
   <h1>⌨️​ Programming languages / Frameworks ⌨️</h1>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,8 +29,4 @@
   <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
-  <h1>🖥️ Operating Systems 🖥️</h1>
-  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
 </div>
