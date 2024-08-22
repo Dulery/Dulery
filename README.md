@@ -31,13 +31,9 @@
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
   <br><br>
   <h1>📞 Contacts 📞</h1>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/your-discord-id">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" />
-  </a>
+  <p>
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-linkedin-profile">your-linkedin-profile</a><br>
+    <strong>Discord:</strong> your-discord-id<br>
+    <strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a>
+  </p>
 </div>
