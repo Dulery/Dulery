@@ -28,5 +28,5 @@
   <h1>🖥️ Operating Systems 🖥️</h1>
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/fedora.png" alt="Fedora" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
+  <img src="https://img.icons8.com/color/48/000000/mac-os--v2.png" alt="macOS" />
 </div>
