@@ -6,6 +6,11 @@
   </a>
   <br>
   <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak" />
+  </a>
+  <br>
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
   </a>
@@ -24,9 +29,4 @@
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" />
-  <br>
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak" />
-  </a>
 </div>
