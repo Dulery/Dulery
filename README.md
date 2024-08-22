@@ -15,7 +15,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
   </a>
   <br><br>
-  <h1>⌨️​ Programming languages ⌨️</h1>
+  <h1>⌨️​ Programming languages / Frameworks ⌨️</h1>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
