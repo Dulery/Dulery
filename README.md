@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I’m Lauric 👋</h1>
+  <h1><img src="https://your-image-url.com/waving-hand.gif" alt="Waving Hand"> Hi, I’m Lauric <img src="https://your-image-url.com/waving-hand.gif" alt="Waving Hand"></h1>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulery&layout=donut&theme=dark" alt="Top Langs" />
