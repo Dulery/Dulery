@@ -2,7 +2,7 @@
   <h1><img src="https://your-image-url.com/waving-hand.gif" alt="Waving Hand"> Hi, I’m Lauric <img src="https://your-image-url.com/waving-hand.gif" alt="Waving Hand"></h1>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dulery&theme=github-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulery&theme=dark&hide_progress=true" />
   </a>
   <br>
   <br>
